@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/源码文档/01_JAVA基础课件/1.Java基础语法/day06_Debug&amp;进制&amp;二维数组/代码/mRadix/mRadix.iml" filepath="$USER_HOME$/Desktop/源码文档/01_JAVA基础课件/1.Java基础语法/day06_Debug&amp;进制&amp;二维数组/代码/mRadix/mRadix.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/源码文档/01_JAVA基础课件/1.Java基础语法/day06_Debug&amp;进制&amp;二维数组/代码/mTwoDimensionalArray/mTwoDimensionalArray.iml" filepath="$USER_HOME$/Desktop/源码文档/01_JAVA基础课件/1.Java基础语法/day06_Debug&amp;进制&amp;二维数组/代码/mTwoDimensionalArray/mTwoDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
+    </modules>
+  </component>
+</project>
