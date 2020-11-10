@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a5c678d-d54b-4452-98ad-8f3192a1f0af" name="Default Changelist" comment="" />
+    <list default="true" id="2a5c678d-d54b-4452-98ad-8f3192a1f0af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1k0RAlO1KhGcpAKz7j4TX2JhKrY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -101,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604835380852</updated>
       <workItem from="1604835384093" duration="3219000" />
-      <workItem from="1604838640318" duration="10334000" />
+      <workItem from="1604838640318" duration="10979000" />
     </task>
     <servers />
   </component>
